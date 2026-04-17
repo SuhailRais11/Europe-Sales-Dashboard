@@ -35,4 +35,5 @@ Market and segment comparison
 Executive-level reporting dashboards
 
 5- Screenshot:
-https://github.com/SuhailRais11/Europe-Sales-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
+Show what the dashboard looks like. 
+![Dashboard preview].(https://github.com/SuhailRais11/Europe-Sales-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
